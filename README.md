@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @izaiddinhassan
 - 👀 I’m interested in backend microservice development
 - 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me izaiddinhassan@gmail.com
 
 <!---
